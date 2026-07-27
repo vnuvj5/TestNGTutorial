@@ -9,7 +9,7 @@ public class Day2 {
     @Test(groups={"Smoke"})
     public void ploan()
     {
-        System.out.println("good");
+        System.out.println("good Day2");
     }
 
     @BeforeTest
